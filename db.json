@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "id":1,
+            "nombre":"Producto 1",
+            "categoria":"Categoria 1"
+        },
+        {
+            "id":1,
+            "nombre":"Producto 2",
+            "categoria":"Categoria 1"
+        },
+        {
+            "id":1,
+            "nombre":"Producto 3",
+            "categoria":"Categoria 2"
+        }
+    ],
+    "usuarios":[
+        {
+            "id":1,
+            "nombre":"Usuario 1",
+            "correo":"user1@gmail.com"
+        },
+        {
+            "id":2,
+            "nombre":"Usuario 2",
+            "correo":"user2@gmail.com"
+        },
+        {
+            "id":3,
+            "nombre":"Usuario 3",
+            "correo":"user3@gmail.com"
+        }
+    ]
+}
